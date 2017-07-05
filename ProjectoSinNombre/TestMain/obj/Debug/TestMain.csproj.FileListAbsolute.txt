@@ -1,0 +1,16 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\bin\Debug\TestMain.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\bin\Debug\TestMain.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\bin\Debug\TestMain.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\obj\Debug\TestMain.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\obj\Debug\TestMain.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ProjectoSinNombre\TestMain\obj\Debug\TestMain.pdb
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\bin\Debug\TestMain.exe.config
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\bin\Debug\TestMain.exe
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\bin\Debug\TestMain.pdb
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\obj\Debug\TestMain.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\obj\Debug\TestMain.exe
+C:\Users\Facu\Desktop\TPs\ProjectoSinNombre\TestMain\obj\Debug\TestMain.pdb
